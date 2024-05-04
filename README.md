@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm new to the whole Web Development thing but am hoping to learn a lot.
+
+Currently learning about:
+- HTML
+- CSS
+- JavaScript
+
+
 <!--
 **Draikth/Draikth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
