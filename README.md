@@ -6,6 +6,8 @@ Currently learning about:
 - HTML
 - CSS
 - JavaScript
+- Node
+- React
 
 
 <!--
