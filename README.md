@@ -8,6 +8,7 @@ Currently learning about:
 - JavaScript
 - Node
 - React
+- Next.js
 
 
 <!--
