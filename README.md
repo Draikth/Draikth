@@ -6,6 +6,7 @@ Currently learning about:
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Node
 - React
 - Next.js
