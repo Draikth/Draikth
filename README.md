@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Marais Devis
 
-Full Stack Web Developer with a background in Event Support and Technical Coordination
+Full Stack Web Developer with a background in Event Support, Technical Coordination and Teaching English
 
 I have recently stepped into the world of Web Development, and am eager to learn a lot more and expand my Tech-Stack and horizons.
 A dream of mine would be to eventually develop my own AI.
