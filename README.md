@@ -5,7 +5,7 @@ Web Developer with a background in Event Support, Technical Coordination and Tea
 I have recently stepped into the world of Web Development, and am eager to learn a lot more and expand my Tech-Stack and horizons.
 A dream of mine would be to eventually develop my own AI.
 
-- 🔭 I'm currently working on a personal project called [Event Network Project](https://github.com/Draikth/nextjs-event-network-project) which is a full stack web application, where users can find out what events might be happening in and around their city 
+- 🔭 I'm currently working on a personal project to broaden my skills and eventually to start learning how to use Python  
 
  
 ## Technologies
